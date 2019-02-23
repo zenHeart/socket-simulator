@@ -1,0 +1,23 @@
+{
+  "name": "socket-simulator",
+  "version": "0.0.0",
+  "description": "基于 socket 模拟各种通信",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenHeart/socket-simulator.git"
+  },
+  "keywords": [
+    "sokcet",
+    "simulator"
+  ],
+  "author": "zenheart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenHeart/socket-simulator/issues"
+  },
+  "homepage": "https://github.com/zenHeart/socket-simulator#readme"
+}
